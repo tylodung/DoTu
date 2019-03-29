@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Tấm Lòng Son
+                Món Ăn Dễ Nấu Tại Nhà
               </h1>
               <p
                 css={{
@@ -114,7 +114,7 @@ class Home extends Component {
                     fontSize: 30,
                   },
                 }}>
-                Hỡi Thế Gian... Tình Là Chi
+                Thần Bếp Vào NHà
               </p>
               <Flex
                 valign="center"

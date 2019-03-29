@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Tận Đáy Lòng
+            Ẩm Thực Đệ Nhất
           </span>
         </Link>
 
@@ -116,7 +116,7 @@ const Header = ({location}) => (
           }}>
           <HeaderLink
             isActive={location.pathname.includes('/blog')}
-            title="Tình Cảm và Kỷ Niệm"
+            title="Những Món Ngon Thần Thánh"
             to="/blog/"
           />
         </nav>
@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://marstacaca.site/"
+            href="https://codeworldpostal.com/"
             target="_blank"
             rel="noopener">
             Bakadono {version}
