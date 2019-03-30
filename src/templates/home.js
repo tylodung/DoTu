@@ -42,7 +42,7 @@ class Home extends Component {
 
   render() {
     const {data} = this.props;
-    const title = 'Đoàn Bình & Tận Đáy Lòng';
+    const title = 'Đoàn Bình & Ẩm Thực Đệ Nhất';
 
     return (
       <div css={{width: '100%'}}>
