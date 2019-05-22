@@ -28,7 +28,7 @@ author: [doanbinh]
 
 + 2 muỗng cà phê đường
 
-+ Dầu ăn, tiêu
++ Dầu ăn, tiêu.
 
 **Cách làm**
 
