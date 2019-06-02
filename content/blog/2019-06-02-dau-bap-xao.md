@@ -1,12 +1,15 @@
 ---
 published: true
 hidden: false
-title:  Đậu bắp xào chay
+title: Đậu bắp xào chay
 author: [doanbinh]
 ---
- Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 
-Nguyên liệu làm món đậu bắp xào chay
+Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
+
+![ten buc hinh](https://media.cooky.vn/recipe/g1/5091/s800x500/recipe5091-635739330731275623.jpg "ten buc hinh")
+
+**Nguyên liệu làm món đậu bắp xào chay**
 
 + 1 muỗng canh dầu ăn
 
@@ -16,11 +19,11 @@ Nguyên liệu làm món đậu bắp xào chay
 
 + 200g đậu bắp
 
-+ 2 muỗng cà-phê nước tương, muối
++ 2 muỗng cà-phê nước tương, muối.
 
-Cách làm món đậu bắp xào chay
+**Cách làm món đậu bắp xào chay**
 
-– Đậu bắp rửa sạch, cắt miếng xéo nhỏ
+– Đậu bắp rửa sạch, cắt miếng xéo nhỏ.
 
 – Cho 1 muỗng canh dầu ăn vào chảo, dầu nóng cho tiêu, ớt khô vào đảo đều khoảng 1 phút. Hơi nghiền ớt thành miếng nhỏ. Vớt ớt và tiêu ra.
 
