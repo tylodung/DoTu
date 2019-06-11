@@ -7,6 +7,7 @@ author: [doanbinh]
 
 Món chay thấy vậy mà ngon, đặc biệt chị em muốn dáng đep xuống kí hãy ăn chay sẻ được như mong muốn. Ăn rau củ nhiều đẹp da và dáng.
 
+![ten buc hinh](http://www.monngon.tv/uploads/images/2017/03/13/95f3eed2ddc55a1f3598fad99fb3e437-cach-lam-canh-nam-chay_gxuq%20(1).jpg "ten buc hinh")
 
 **Nguyên Liệu**
 
