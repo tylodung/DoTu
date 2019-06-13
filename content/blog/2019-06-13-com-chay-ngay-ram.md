@@ -7,8 +7,9 @@ author: [doanbinh]
 
 Cơm chay thanh đạm lạ miệng mà ngon. 
 
+![ten buc hinh](https://kenhphunu.com/media/tintuc/1425488400/cach-nau-bua-chay-an-hoac-cung-ngay-ram-don-gian.jpg "ten buc hinh")
 
-Nguyên Liệu	
+**Nguyên Liệu**	
 
 200 gram ngó sen
 
@@ -38,7 +39,7 @@ Hủ tiếu 500 gram
 
 Đậu phộng rang chín.
 
-Các bước
+**Các bước**
 
 Khổ qua moi ruột cắt khúc, cùng cà rốt, chả chay, cùng bắp cải cắt nhỏ, khổ qua luộc nước sôi cho mềm kho mới thấm
 
