@@ -1,10 +1,12 @@
 ---
 published: true
 hidden: false
-title: Sườn non rim chay
+title: Sườn non rim chay, thơm ngon, bổ dưỡng
 author: [doanbinh] 
 ---
 Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
+
+![ten buc hinh](http://giadinh.mediacdn.vn/zoom/655_361/mdzIl7vLgLfgwjAengS14jHKvrq/Image/2013/07/Suon-chay-rim-mat-ong-36SS427-01c11.jpg "ten buc hinh")
 
 **Nguyên liệu cần có cho món ăn này**
 

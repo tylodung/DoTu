@@ -1,10 +1,12 @@
 ---
 published: true
 hidden: false
-title: Sườn non chay chiên
+title: Sườn non chay chiên giòn rụm
 author: [doanbinh] 
 ---
 Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
+
+![ten buc hinh](https://img-global.cpcdn.com/005_recipes/f1bd3288cf5960cf/751x532cq70/s%C6%B0%E1%BB%9Dn-non-chay-chien-gion-recipe-main-photo.jpg "ten buc hinh")
 
 **Nguyên liệu cần có cho món ăn này**
 
