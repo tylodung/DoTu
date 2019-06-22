@@ -1,10 +1,12 @@
 ---
 published: true
 hidden: false
-title: Đậu phụ sốt cà chua
+title: Đậu phụ sốt cà chua, ngon khó cưỡng
 author: [doanbinh] 
 ---
 Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
+
+![ten buc hinh](https://media.cooky.vn/recipe/g4/38107/s800x500/cooky-recipe-cover-r38107.jpg "ten buc hinh")
 
 **Nguyên liệu:**
 

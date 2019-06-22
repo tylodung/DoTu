@@ -1,12 +1,14 @@
 ---
 published: true
 hidden: false
-title: Đậu phụ nướng mỡ hành
+title: Đậu phụ nướng mỡ hành, giòn ngon ngọt
 author: [doanbinh]  
 ---
 Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 
-**Nguyên liệu:** Đậu phụ tươi, hành lá, xì dầu, tiêu
+![ten buc hinh](https://www.comvietnam.com/images/file/K4B2vUX00AgBAIB_/am-thuc-viet-nam-dau-hu-nuoc-mam.jpg "ten buc hinh")
+
+**Nguyên liệu:** Đậu phụ tươi, hành lá, xì dầu, tiêu.
 
 **Cách làm:**
 

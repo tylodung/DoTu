@@ -10,13 +10,13 @@ author: [doanbinh]
 
 **Nguyên liệu cần có cho món ăn này**
 
-+ 300 gam sườn non chay
++ 300 gam sườn non chay;
 
-+ 100 ml sữa đặc có đường
++ 100 ml sữa đặc có đường;
 
-+ 4 cây sả tươi
++ 4 cây sả tươi;
 
-+ giấy bạc, 50 gam mè trắng
++ giấy bạc, 50 gam mè trắng;
 
 + gia vị : muối, tiêu, hạt nêm nấm.
 
