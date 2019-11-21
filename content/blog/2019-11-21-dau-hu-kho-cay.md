@@ -4,6 +4,7 @@ hidden: false
 title: Đậu phụ non kho cay sền sệt
 author: [doanbinh] 
 ---
+
 Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 
 ![ten buc hinh](https://media.cooky.vn/recipe/g1/9567/s800x500/recipe9567-635848213598108654.jpg "ten buc hinh")
@@ -11,21 +12,21 @@ author: [doanbinh]
 
 **Nguyên liệu**
 
-+ 6 miếng đậu phụ
++ 6 miếng đậu phụ;
 
-+ 1 muỗng canh bột bắp (hoặc bột gạo)
++ 1 muỗng canh bột bắp (hoặc bột gạo);
 
-+ 1/2 muỗng cà phê muối
++ 1/2 muỗng cà phê muối;
 
-+ 2 quả ớt sừng
++ 2 quả ớt sừng;
 
-+ 1 muỗng canh gừng
++ 1 muỗng canh gừng;
 
-+ Hành boa-rô
++ Hành boa-rô.
 
 **Nước sốt:**
 
-+ 1 muỗng cà phê dầu hào, 2 muỗng canh nước tương, 1 muỗng canh tiêu, 2 muỗng canh đường, 1 muỗng canh dấm gạo, 1/4 ly nước, 1 muỗng canh bột bắp
++ 1 muỗng cà phê dầu hào, 2 muỗng canh nước tương, 1 muỗng canh tiêu, 2 muỗng canh đường, 1 muỗng canh dấm gạo, 1/4 ly nước, 1 muỗng canh bột bắp.
 
 **Cách làm**
 

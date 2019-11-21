@@ -4,17 +4,18 @@ hidden: false
 title: Đậu hủ non chiên giòn rụm
 author: [doanbinh] 
 ---
+
 Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 
 ![ten buc hinh](https://media.cooky.vn/recipe/g1/4363/s800x500/recipe4363-635669526712875516.jpg "ten buc hinh")
 
 **Nguyên liệu:**
 
-– 300g đậu phụ
+– 300g đậu phụ;
 
-– 3 quả trứng (1 quả trứng + 2 lòng đỏ)
+– 3 quả trứng (1 quả trứng + 2 lòng đỏ);
 
-– 30g bột mì; 5g vừng đen; bột chiên xù
+– 30g bột mì; 5g vừng đen; bột chiên xù;
 
 **Cách làm đậu phụ lăn bột chiên giòn**
 
